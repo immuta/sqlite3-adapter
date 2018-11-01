@@ -23,7 +23,7 @@
     "knex": "^0.9",
     "lodash": "^3.10.0",
     "moment": "^2.10.6",
-    "sqlite3": "3.1.8",
+    "sqlite3": "4.0.3",
     "waterline-cursor": "0.0.6",
     "waterline-errors": "^0.10.1",
     "waterline-sequel": "^0.5.0"
