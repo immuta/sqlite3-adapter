@@ -17,7 +17,8 @@
     "url": "git://github.com/waterlinejs/sqlite3-adapter.git"
   },
   "dependencies": {
-    "babel": "5.8.38",
+    "@babel/core": "7.4.3",
+    "@babel/preset-env": "7.4.3",
     "gulp": "3.9.1",
     "gulp-babel": "5.2.0",
     "knex": "^0.9",
