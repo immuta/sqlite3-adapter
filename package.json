@@ -23,7 +23,7 @@
     "knex": "^0.9",
     "lodash": "^3.10.0",
     "moment": "^2.10.6",
-    "sqlite3": "github:mapbox/node-sqlite3#bc5d794",
+    "sqlite3": "github:mapbox/node-sqlite3#918052b",
     "waterline-cursor": "0.0.6",
     "waterline-errors": "^0.10.1",
     "waterline-sequel": "^0.5.0"
