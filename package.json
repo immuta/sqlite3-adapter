@@ -26,7 +26,7 @@
     "sqlite3": "4.0.9",
     "waterline-cursor": "0.0.6",
     "waterline-errors": "^0.10.1",
-    "waterline-sequel": "^0.5.0"
+    "waterline-sequel": "github:immuta/waterline-sequel#add-like-clause-escape"
   },
   "devDependencies": {
     "mocha": "latest",
