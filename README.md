@@ -17,7 +17,7 @@ A [Waterline](https://github.com/waterlinejs) adapter for
 ## Compatibility
 - [Waterline](http://waterline.js.org) v0.10 and newer
 - [Trails](http://trailsjs.io) v1.0 and newer
-- Node 4 or newer
+- Node 12 or newer
 
 ## Install
 
