@@ -1,7 +1,7 @@
 var util = require('util');
 var mocha = require('mocha');
 var TestRunner = require('waterline-adapter-tests');
-var Adapter = require('../../dist/adapter');
+var Adapter = require('../../dist/adapter').default;
 
 // Grab targeted interfaces from this adapter's `package.json` file:
 var pkg = { };
